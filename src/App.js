@@ -12,11 +12,12 @@ import Layout from './layout/Layout'
 
 function App() {
   return (
+    
     <div className='App'>
     <Router>
     <Layout>
         <Routes>
-          <Route path="/home" element={<Home/>} />
+          <Route path="/" element={<Home/>} />
         </Routes>
         </Layout>
     </Router>

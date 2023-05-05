@@ -1,6 +1,13 @@
-.App {
-  background-image: radial-gradient(farthest-side at 60% 0%, yellow, red 20%, purple,black 40%);
+body {
+
+  background-image: radial-gradient(circle at top , yellow, red 20%, purple,black 40%);
+  background-size: cover;             
+  background-position: center;
+  background-repeat: no-repeat;  
+  height: 100vh;
+  background-attachment: fixed;     
 }
+
 
 .App-logo {
   padding: 15px;
