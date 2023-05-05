@@ -1,0 +1,38 @@
+.App {
+  background-image: radial-gradient(farthest-side at 60% 0%, yellow, red 20%, purple,black 40%);
+}
+
+.App-logo {
+  padding: 15px;
+  width: auto;
+  height: 150px;
+}
+
+
+.App-header {
+ 
+  min-height: 100vh;
+  color: white;
+  display: flex;
+  padding-top: 50px;
+  padding-left: 50px;;
+  
+}
+
+.App-header h1{
+font-weight: bold;
+font-size: 80px;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
