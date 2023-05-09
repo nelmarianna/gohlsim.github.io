@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/gohlsim.github.io/static/css/main.8b4a0605.css",
+    "main.js": "/gohlsim.github.io/static/js/main.70bf3906.js",
+    "static/js/787.6b17f83c.chunk.js": "/gohlsim.github.io/static/js/787.6b17f83c.chunk.js",
+    "static/media/how-to-join-img.png": "/gohlsim.github.io/static/media/how-to-join-img.faee7cac5875ec7f14f3.png",
+    "static/media/faq-img.png": "/gohlsim.github.io/static/media/faq-img.5aaa82613d6892821787.png",
+    "static/media/about-img.png": "/gohlsim.github.io/static/media/about-img.5e1daad30c209449c13a.png",
+    "static/media/GOHLS.png": "/gohlsim.github.io/static/media/GOHLS.72146325b74ac52c692b.png",
+    "static/media/NHL.ttf": "/gohlsim.github.io/static/media/NHL.e3b2ab4cc3aa4903db09.ttf",
+    "index.html": "/gohlsim.github.io/index.html",
+    "main.8b4a0605.css.map": "/gohlsim.github.io/static/css/main.8b4a0605.css.map",
+    "main.70bf3906.js.map": "/gohlsim.github.io/static/js/main.70bf3906.js.map",
+    "787.6b17f83c.chunk.js.map": "/gohlsim.github.io/static/js/787.6b17f83c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b4a0605.css",
+    "static/js/main.70bf3906.js"
+  ]
+}
