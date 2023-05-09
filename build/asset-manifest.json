@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.44afe761.css",
+    "main.js": "/static/js/main.ed479b71.js",
+    "static/js/787.6b17f83c.chunk.js": "/static/js/787.6b17f83c.chunk.js",
+    "static/media/how-to-join-img.png": "/static/media/how-to-join-img.faee7cac5875ec7f14f3.png",
+    "static/media/faq-img.png": "/static/media/faq-img.5aaa82613d6892821787.png",
+    "static/media/about-img.png": "/static/media/about-img.5e1daad30c209449c13a.png",
+    "static/media/GOHLS.png": "/static/media/GOHLS.72146325b74ac52c692b.png",
+    "static/media/NHL.ttf": "/static/media/NHL.e3b2ab4cc3aa4903db09.ttf",
+    "index.html": "/index.html",
+    "main.44afe761.css.map": "/static/css/main.44afe761.css.map",
+    "main.ed479b71.js.map": "/static/js/main.ed479b71.js.map",
+    "787.6b17f83c.chunk.js.map": "/static/js/787.6b17f83c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44afe761.css",
+    "static/js/main.ed479b71.js"
+  ]
+}
